@@ -1954,8 +1954,4 @@ body {
   display: block;
   text-align: center;
 }
-.media-container-column {
-    background: rgba(0, 0, 0, 0.36);
-    padding: 10px;
-    border-radius: 25px;
-}
+

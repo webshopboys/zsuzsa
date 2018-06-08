@@ -165,7 +165,13 @@ section {
   align-content: center;
   -webkit-align-items: stretch;
   -ms-flex-align: stretch;
-  align-items: stretch; }
+  align-items: stretch; 
+
+    background: rgba(0, 0, 0, 0.36);
+    padding: 10px;
+    border-radius: 25px;
+
+}
   .media-container-column > * {
     width: 100%; }
 
